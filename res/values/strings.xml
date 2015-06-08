@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XiaoheiNews</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="left_drawer_no_login_tip">请登录获取更多精彩内容</string>
+    <string name="left_drawer_item_search">搜索</string>
+    <string name="left_drawer_item_favorite">收藏</string>
+    <string name="left_drawer_item_message">消息</string>
+    <string name="label_cancel_dislike">撤消</string>
+</resources>
